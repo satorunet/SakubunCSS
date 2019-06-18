@@ -4,7 +4,20 @@
 
 ## 概要
 
-いわゆる作文のためのCSSです。
+いわゆる作文や原稿用紙風を実現するCSSです。
+
+## 使い方
+sakubun.cssを読み込み、
+class=sakubunb内に本文。
+
+<style src="sakubun.css"></style>
+<div class="sakubun">
+<p>
+吾輩は猫である。<br>
+夏目漱石<br>
+</p>
+</div>
+
 
 ## 注意点
 
