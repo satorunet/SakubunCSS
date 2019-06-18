@@ -1,6 +1,6 @@
 # SakubunCSS
 
-![SakubunCSS Sample Image](https://raw.githubusercontent.com/masaki-ohsumi/SakubunCSS/master/other/SampleImage.png)
+![SakubunCSS Sample Image](https://raw.githubusercontent.com/satorunet/SakubunCSS/master/sample.png)
 
 ## 概要
 
