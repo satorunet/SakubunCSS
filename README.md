@@ -6,6 +6,9 @@
 
 いわゆる作文や原稿用紙風を実現するCSSです。
 
+※fork元の縦書きの横バージョンです。
+https://github.com/cawpea/SakubunCSS
+
 ## 使い方
 sakubun.cssを読み込み、
 class=sakubunb内に本文。
