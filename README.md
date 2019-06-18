@@ -14,7 +14,7 @@ https://github.com/cawpea/SakubunCSS
 ## 使い方
 sakubun.cssを読み込むだけ。
 
-<style src="sakubun.css"></style>
+<link rel="stylesheet" href="sakubun.css">
 <div class="sakubun">
 <p>
 吾輩は猫である。<br>
