@@ -8,6 +8,7 @@ sample: http://satoru.net/sakubun/
 
 ※fork元の「縦書き」の「横書き版」です。
 縦書きを使いたい方は↓
+
 https://github.com/cawpea/SakubunCSS
 
 ## 使い方
