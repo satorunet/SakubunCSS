@@ -14,13 +14,13 @@ https://github.com/cawpea/SakubunCSS
 ## 使い方
 sakubun.cssを読み込むだけ。
 
-&lt;link rel="stylesheet" href="sakubun.css">
-&lt;div class="sakubun">
-&lt;p>
-吾輩は猫である。&lt;br>
-夏目漱石&lt;br>
-&lt;/p>
-&lt;/div>
+&lt;link rel="stylesheet" href="sakubun.css"><br>
+&lt;div class="sakubun"><br>
+&lt;p><br>
+吾輩は猫である。&lt;br><br>
+夏目漱石&lt;br><br>
+&lt;/p><br>
+&lt;/div><br>
 
 
 ## 注意点
