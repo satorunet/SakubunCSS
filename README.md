@@ -1,5 +1,5 @@
 # SakubunCSS
-
+sample: http://satoru.net/sakubun/
 ![SakubunCSS Sample Image](https://raw.githubusercontent.com/satorunet/SakubunCSS/master/sample.png)
 
 ## 概要
