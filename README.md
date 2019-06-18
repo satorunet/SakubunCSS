@@ -1,4 +1,4 @@
-# SakubunCSS (横書きバージョン)
+# SakubunCSS (横書き版)
 sample: http://satoru.net/sakubun/
 ![SakubunCSS Sample Image](https://raw.githubusercontent.com/satorunet/SakubunCSS/master/sample.png)
 
@@ -6,8 +6,8 @@ sample: http://satoru.net/sakubun/
 
 いわゆる作文や原稿用紙風を実現するCSSです。
 
-※fork元の縦書きの横書きバージョンです。
-
+※fork元の「縦書き」の「横書き版」です。
+縦書きを使いたい方は↓
 https://github.com/cawpea/SakubunCSS
 
 ## 使い方
