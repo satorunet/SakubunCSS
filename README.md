@@ -1,4 +1,4 @@
-# SakubunCSS-yoko (横書き版)
+# SakubunCSS-yoko (横書き版の作文・原稿用紙風CSS)
 sample: http://satoru.net/sakubun/
 ![SakubunCSS Sample Image](https://raw.githubusercontent.com/satorunet/SakubunCSS/master/sample.png)
 
