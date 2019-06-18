@@ -12,8 +12,6 @@ sample: http://satoru.net/sakubun/
 https://github.com/cawpea/SakubunCSS
 
 ## 使い方
-sakubun.cssを読み込むだけ。
-
 &lt;link rel="stylesheet" href="sakubun.css"><br>
 &lt;div class="sakubun"><br>
 &lt;p><br>
