@@ -12,8 +12,7 @@ sample: http://satoru.net/sakubun/
 https://github.com/cawpea/SakubunCSS
 
 ## 使い方
-sakubun.cssを読み込み、
-class=sakubunb内に本文。
+sakubun.cssを読み込むだけ。
 
 <style src="sakubun.css"></style>
 <div class="sakubun">
